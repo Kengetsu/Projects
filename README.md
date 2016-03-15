@@ -1,2 +1,5 @@
 # Projects
-Source Code for projects
+Non-Web projects.
+
+TicTacToe - JAVA
+ConsoleGame - VB
