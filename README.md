@@ -1,5 +1,5 @@
 # Projects
 Non-Web projects.
 
-TicTacToe - JAVA
-ConsoleGame - VB
+TicTacToe coded in Java.
+ConsoleGame coded in VB.
